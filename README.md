@@ -1,10 +1,19 @@
 # rest-api-using-swagger
+
+🚀 Launched: REST API with Node.js, Express & Swagger – Udyamay
+
 📘 REST API Project with CRUD Operations, Authentication, and Post Management
 
 🛠 Project Overview:
 
+I’ve created a hands-on course to help beginners build scalable REST APIs using Node.js, Express, MySQL, and Swagger.
 This project is a fully functional REST API built using Node.js and Express.js, showcasing essential backend development concepts like CRUD operations, authentication, and API documentation with Swagger.
 The API supports user authentication and enables users to create, read, update, and delete posts, along with like and dislike functionality — all structured with a clean architecture.
+
+🔹 Learn project structure, routes, controllers, services
+🔹 CRUD operations (GET, POST, PUT, DELETE)
+🔹 Database connection & HTTP response handling
+🔹 Professional API docs with Swagger
 
 🔧 Key Features:
 
@@ -19,7 +28,7 @@ File Structure Planning: Well-organized project structure with routes, controlle
 📂 Tech Stack:
 
 Backend: Node.js, Express.js
-Database: MongoDB (or MySQL, depending on your setup)
+Database: MySQL
 API Testing: Postman
 Documentation: Swagger
 Tools: Nodemon, Body Parser
